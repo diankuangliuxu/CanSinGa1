@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CanSinGa</string>
+    <string name="string_title">轨道交通碰撞能量一维仿真软件v1.0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="string_scene_design">·列车编组\n·碰撞场景</string>
+    <string name="string_type_design">·车辆类型\n·吸能方案</string>
+    <string name="string_cem_design">·车辆分布\n·CEM设计</string>
+    <string name="string_begin_calculate">开始计算</string>
+    <string-array name="car_numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
